@@ -1,0 +1,6 @@
+{
+  "name": "Cursed Manor",
+  "description": "Retro action-survival horror. Escape an adaptive procedurally generated maze, buy mystical upgrades, and survive stalking phantoms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
